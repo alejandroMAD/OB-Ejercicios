@@ -1,0 +1,26 @@
+body {
+    background-color: #EAFAF1;
+    max-width: 880px;
+    margin: auto;
+}
+
+table, td {
+    text-align: center;
+    border: 1px solid;
+    font-size: 18px;
+}
+
+td {
+    padding: 5px 25px;
+    cursor: pointer;
+}
+
+tr {
+    cursor: pointer;
+}
+
+main {
+    width: 95%;
+    text-align: justify;
+    margin: auto;
+}
